@@ -6,6 +6,8 @@ public class TestCache {
     private String name;
 
     private String password;
+    
+    private String password1;
 
 
 }
